@@ -1,4 +1,5 @@
 # GroupBartenderAction
+使用前一定要先看一看官方教程: https://nonebot.cqp.moe/ .
 群酒保行动.
 基于Nonebot实现, 运用了elif分支大法.
 说是Python, 但是似乎却会给你一股C的感觉.
