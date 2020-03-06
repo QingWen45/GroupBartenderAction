@@ -126,7 +126,7 @@ Beer\nBleedingJane\nBloomLight
 BlueFairy\nBrandtini"""
     elif inquiry =='M':
         return "Marsblast\nMercuryblast\nMoonblast"
-    elif inquiry =='p':
+    elif inquiry =='P':
         return "PianoMan\nPianoWoman\nPiledriver"
 
     elif inquiry == '口味':
